@@ -1,2 +1,1 @@
 # expleshinyapp1
-easyz
